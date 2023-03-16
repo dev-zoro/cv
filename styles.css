@@ -1,0 +1,33 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr { /* It is a type selector*/ 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: white;
+    width: 5%;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Lucida Handwriting', Courier, monospace;
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: Verdana, Arial, Verdana;
+}
+
+img {
+    border-radius: 50%;
+}
+img:hover, button:hover {
+    box-shadow: 0 0 5px 2px #3E54AC;
+}
+
+/* a {
+    text-decoration: none;
+    color: red;
+} */
